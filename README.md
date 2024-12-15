@@ -8,6 +8,4 @@
             document.querySelector('button').style.display = 'none';
         }
     </script>
-</body>
-</html>
 
